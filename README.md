@@ -47,9 +47,11 @@ Compilar y ejecutar:
 1. **Registrar un Usuario:**
 
 Ingrese el nombre y número de teléfono en los campos correspondientes y haga clic en "Registrar".
+
 2. **Realizar una Reserva:**
 
 Seleccione una cancha, ingrese la fecha, hora de inicio y duración, luego haga clic en "Reservar".
+
 3. **Consultar Disponibilidad:**
 
 Ingrese la fecha y seleccione la cancha para ver los horarios disponibles.
